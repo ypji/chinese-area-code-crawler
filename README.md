@@ -4,8 +4,8 @@
 
 输出样例：
 
-* [CSV数据](https://github.com/user/repo/blob/branch/other_file.md)
-* [SQL数据](https://github.com/user/repo/blob/branch/other_file.md)
+* [CSV数据](https://github.com/ypji/chinese-area-code-crawler/blob/master/examples/34.csv?raw=true)
+* [SQL数据](https://github.com/ypji/chinese-area-code-crawler/blob/master/examples/34.sql?raw=true)
 
 ## 爬取数据
 
